@@ -3,7 +3,7 @@
 🎓 Eng. de Software @ FUCAPI - Manaus/AM 💻 Buscando estágio em TI | Foco em Java POO e Estrutura de Dados
 
 ### Minha Stack
-[![My Skills](https://skillicons.dev/icons?i=java,c,python,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,c#,python,html,css,git)](https://skillicons.dev)
 
 ### Sobre mim
 Atualmente estudando:
