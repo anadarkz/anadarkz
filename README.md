@@ -7,7 +7,7 @@
 
 ### Sobre mim
 Atualmente estudando:
-- POO em Java (construtores, getters/setters)
+- POO em Java (construtores, getters/setters/encapsulamento)
 - Estrutura de Dados em C (Pilha, Fila, Lista)
 
 ### 📬 Me encontra aqui:
